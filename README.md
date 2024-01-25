@@ -4,22 +4,22 @@ Simple console line application to manage a contact list saved in a single file.
 
 ## Usage
 
-### List Contacts
+### List all contacts
 
-- `node index.js --action list`
-  ![List Contacts](https://i.ibb.co/wddP203/list.png)
+`node index.js --action list`
+![List Contacts](https://i.ibb.co/wddP203/list.png)
 
-### Get Contact by ID
+### Get contact by ID
 
-- `node index.js --action get --id (id)`
-  ![Get Contact](https://i.ibb.co/Q6vxNsS/get.png)
+`node index.js --action get --id (id)`
+![Get Contact](https://i.ibb.co/Q6vxNsS/get.png)
 
-### Remove a Contact
+### Remove contact
 
-- `node index.js --action remove --id (id)`
-  ![Remove Contact](https://i.ibb.co/kDpy7J9/remove.png)
+`node index.js --action remove --id (id)`
+![Remove Contact](https://i.ibb.co/kDpy7J9/remove.png)
 
-### Add a New Contact
+### Add new contact
 
-- `node index.js --action add --name (name) --email (email) --phone (phone number)`
-  ![Add Contact](https://i.ibb.co/Tkcqbq3/add.png)
+`node index.js --action add --name (name) --email (email) --phone (phone number)`
+![Add Contact](https://i.ibb.co/Tkcqbq3/add.png)
