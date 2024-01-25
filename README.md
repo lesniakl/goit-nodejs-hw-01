@@ -6,7 +6,10 @@ Simple console line application to manage a contact list saved in a single file.
 
 ### List all contacts
 
-`node index.js --action list`
+```shell
+node index.js --action list
+```
+
 ![List Contacts](https://i.ibb.co/wddP203/list.png)
 
 ### Get contact by ID
